@@ -23,5 +23,5 @@
 ## Usage
 
   ```Shell
-  python3 weather2mackerel.py`
+  python3 weather2mackerel.py
   ```
