@@ -17,7 +17,7 @@
   You might also need to install 'requests':
 
   ```Shell
-  pip3 install requests`
+  pip3 install requests
   ```
 
 ## Usage
