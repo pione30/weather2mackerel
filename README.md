@@ -1,6 +1,6 @@
 # weather2mackerel
   
-  Get weather data and send them to Mackerel.
+  Get weather data from [OpenWeatherMap](https://openweathermap.org/) and send them to [Mackerel](https://mackerel.io/ja/).
 
 ## Requirements
 
