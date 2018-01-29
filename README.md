@@ -25,3 +25,7 @@
   ```Shell
   python3 weather2mackerel.py
   ```
+
+## License
+
+  MIT License
